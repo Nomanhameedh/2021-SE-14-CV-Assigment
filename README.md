@@ -65,10 +65,6 @@ The following Python libraries are required:
 
 To install the dependencies, run:
 
-```bash
-pip install opencv-python-headless numpy matplotlib
-```
-
 ---
 
 ## How to Run
@@ -110,12 +106,12 @@ The program highlights corners in the uploaded image by marking them in the orig
 
 ## Author
 
-- **Group Members:** 
-- **Assignment Title:** Assignment 02 – Computer Vision
+- **Group Members:** Nohman Hameed
+- **Assignment Title:** Assignment 01,02 – Computer Vision
 
 ---
 
 ## Acknowledgments
 
-- **Instructor:** 
+- **Instructor:** Engr. Ahmed Khawaja
 - **Course:** Computer Vision – Software Engineering Program
